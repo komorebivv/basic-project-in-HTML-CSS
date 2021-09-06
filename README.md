@@ -1,6 +1,6 @@
-## Project in HTML, CSS
+# Basic project in HTML, CSS
 
-# This is a simple project to practise my CSS, HTML knowledge.
+## This is a simple project to practise my CSS, HTML knowledge.
 
-# Here is template: https://certy.px-lab.com/html/demo2/
-# Here is my version: https://komorebivv.github.io/basic-project-in-HTML-CSS/
+## Here is template: https://certy.px-lab.com/html/demo2/
+## Here is my version: https://komorebivv.github.io/basic-project-in-HTML-CSS/
